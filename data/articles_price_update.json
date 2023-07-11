@@ -1,0 +1,12 @@
+[
+  {"id": "SKU-458362", "description": "Tasse", "price": 499 },
+  {"id": "SKU-693856", "description": "Becher", "price": 249 },
+  {"id": "SKU-518957", "description": "Kanne", "price": 2999 },
+  {"id": "SKU-638035", "description": "Teller", "price": 849 },
+  {"id": "SKU-278530", "description": "Buch \"Java\"", "price": 6990, "tax": "reduced" },
+  {"id": "SKU-425378", "description": "Buch \"OOP\"", "price": 9995, "tax": "reduced" },
+
+  {"id": "SKU-300926", "description": "Pfanne", "price": 6999 },
+  {"id": "SKU-663942", "description": "Fahrradhelm", "price": 19900 },
+  {"id": "SKU-583978", "description": "Fahrradkarte", "price": 895, "tax": "reduced" }
+]

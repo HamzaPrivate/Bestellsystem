@@ -1,0 +1,11 @@
+[
+  {"article_id": "SKU-693856", "descr": "Becher",       "unitsInStock": 428 },
+  {"article_id": "SKU-638035", "descr": "Teller",       "unitsInStock":   5 },
+  {"article_id": "SKU-425378", "descr": "Buch \"OOP\"", "unitsInStock":   1 },
+  {"article_id": "SKU-300926", "descr": "Pfanne",       "unitsInStock":  86 },
+  {"article_id": "SKU-458362", "descr": "Tasse",        "unitsInStock": 137 },
+  {"article_id": "SKU-278530", "descr": "Buch \"Java\"","unitsInStock":   0 },
+  {"article_id": "SKU-518957", "descr": "Kanne",        "unitsInStock":  96 },
+  {"article_id": "SKU-663942", "descr": "Fahrradhelm",  "unitsInStock":  49 },
+  {"article_id": "SKU-583978", "descr": "Fahrradkarte", "unitsInStock":  38 }
+]

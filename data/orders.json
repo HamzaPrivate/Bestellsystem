@@ -1,0 +1,39 @@
+[
+  {"id": 8592356245, "customer_id": 892474, "items": [
+	{"article_id": "SKU-638035", "units": 4 },
+	{"article_id": "SKU-693856", "units": 8 },
+	{"article_id": "SKU-425378", "units": 1 },
+	{"article_id": "SKU-458362", "units": 4 }
+  ]},
+
+  {"id": 3563561357, "customer_id": 643270, "items": [
+	{"article_id": "SKU-638035", "units": 2 },
+	{"article_id": "SKU-458362", "units": 2 }
+  ]},
+
+  {"id": 5234968294, "customer_id": 892474, "items": [
+	{"article_id": "SKU-518957", "units": 1 }
+  ]},
+
+  {"id": 6135735635, "customer_id": 412396, "items": [
+	{"article_id": "SKU-638035", "units": 12 },
+	{"article_id": "SKU-278530", "units": 1 },
+	{"article_id": "SKU-425378", "units": 1 }
+  ]},
+
+  {"id": 7372561535, "customer_id": 892474, "items": [
+	{"article_id": "SKU-663942", "units": 1 },
+	{"article_id": "SKU-583978", "units": 1 }
+  ]},
+
+  {"id": 4450305661, "customer_id": 892474, "items": [
+	{"article_id": "SKU-458362", "units": 3 },
+	{"article_id": "SKU-693856", "units": 3 },
+	{"article_id": "SKU-518957", "units": 1 }
+  ]},
+
+  {"id": 6173043537, "customer_id": 651286, "items": [
+	{"article_id": "SKU-278530", "units": 1 },
+	{"article_id": "SKU-583978", "units": 1 }
+  ]}
+]
